@@ -67,21 +67,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 MIT License.[1]
 
-## Author
 
-Developed by souhardyaghosh.[1]
 
 ***
 
 This README offers a complete overview, usage instructions, technology details, and contribution guidelines for new users and contributors to the dataQuestTimeTable repository.[1]
 
-[1](https://github.com/souhardyaghosh/dataQuestTimeTable)
-[2](https://www.nits.ac.in/achievements)
-[3](https://www.scribd.com/document/728076339/DOC-20230812-WA0001)
-[4](https://www.scribd.com/document/859836337/10042025124056093)
 
-
-SCREENSHOTS
-
-[5](https://cs.nits.ac.in/achievements)
 
